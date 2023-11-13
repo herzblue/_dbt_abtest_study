@@ -1,0 +1,20 @@
+# Comments start with a #
+# Key-value pairs are separated by a colon and a space
+name: John Doe
+age: 30
+# Lists are denoted by a hyphen and a space
+hobbies:
+- reading
+- hiking
+# Nested key-value pairs are indented with two spaces
+contact:
+email: john.doe@example.com
+phone:
+home: 555-1234
+work: 555-5678
+
+# multi-line string
+description: |
+This is a
+multi-line
+string
